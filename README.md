@@ -1,5 +1,5 @@
 ## Charla
-* **Título**: ¿Cómo manipular datos en python? ¡Con pandas!
+* **Título**: ¿Cómo manipular datos en python? ¡Con la librería pandas!
 * **Resumen**: En esta charla hablo sobre la librería pandas, y su utilidad para la manipulación de datos.
 * **Fecha**: 30 marzo 2016
 * **Lugar**: UTFSM, Chile.
